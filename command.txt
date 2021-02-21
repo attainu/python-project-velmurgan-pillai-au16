@@ -1,0 +1,15 @@
+make_parking_lot 6
+car_park KA-01-HH-1234 White
+car_park KA-01-HH-9999 White
+car_park KA-01-BB-0001 Black
+car_park KA-01-HH-7777 Red
+car_park KA-01-HH-2701 Blue
+car_park KA-01-HH-3141 Black
+car_exit 4
+parking_status
+car_park KA-01-P-333 White
+car_park DL-12-AA-9999 White
+registered_car_numbers_with_given_color White
+solts_numbers_of_cars_with_given_color White
+slot_no_of_registered_car KA-01-HH-3141
+slot_no_of_registered_car MH-04-AY-1111
